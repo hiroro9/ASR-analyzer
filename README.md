@@ -1,6 +1,6 @@
-[![ASR](Images/ASR.png "ASR")](https://github.com/hiroro9/python-ASR.git)
+[![ASR](Images/ASR.png "ASR")](https://github.com/hiroro9/ASR-analyzer.git)
 
-# python-ASR
+# ASR-analyzer
 python scripts for ASR raw data
 
 # 1 input.py
